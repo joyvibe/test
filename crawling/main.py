@@ -26,3 +26,5 @@ for movie_name in tqdm(movie_names):
     driver.quit()
 
 save_file_to_pickle(movie_infos, './data/movie_infos_241014.pkl')
+
+# 지금부터 수정을 해볼건데요. 과연 제가 생각한대로 될지 너무 궁금합니다.
